@@ -120,7 +120,7 @@ class InheritanceTest {
 
         // TODO: please modify the following code to pass the test
         // <--start
-        final String expected = null;
+        final String expected = "NestedDerivedClassWithName";
         // --end-->
 
         assertEquals(expected, derived.getName());
